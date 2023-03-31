@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/front-react/static/css/main.8503cce6.css",
-    "main.js": "/front-react/static/js/main.0aab9f7e.js",
+    "main.css": "/front-react/static/css/main.ee86734d.css",
+    "main.js": "/front-react/static/js/main.87707cbe.js",
     "static/js/787.fb771931.chunk.js": "/front-react/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/front-react/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/front-react/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -18,22 +18,17 @@
     "static/media/revicons.eot": "/front-react/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/front-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/front-react/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/meter2.svg": "/front-react/static/media/meter2.a0050a378a929877ac8144049ee0a1bf.svg",
-    "static/media/meter1.svg": "/front-react/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
-    "static/media/meter3.svg": "/front-react/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
     "static/media/nav-icon3.svg": "/front-react/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
     "static/media/logo.svg": "/front-react/static/media/logo.3c6c479cfa1d154dbfccd4d5f91320f4.svg",
     "index.html": "/front-react/index.html",
     "static/media/nav-icon1.svg": "/front-react/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
-    "static/media/arrow2.svg": "/front-react/static/media/arrow2.b3d03e1b04ec1904a5658aea5776433c.svg",
-    "static/media/arrow1.svg": "/front-react/static/media/arrow1.1088f8313e5637897aff2414e5938141.svg",
     "static/media/nav-icon2.svg": "/front-react/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
-    "main.8503cce6.css.map": "/front-react/static/css/main.8503cce6.css.map",
-    "main.0aab9f7e.js.map": "/front-react/static/js/main.0aab9f7e.js.map",
+    "main.ee86734d.css.map": "/front-react/static/css/main.ee86734d.css.map",
+    "main.87707cbe.js.map": "/front-react/static/js/main.87707cbe.js.map",
     "787.fb771931.chunk.js.map": "/front-react/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8503cce6.css",
-    "static/js/main.0aab9f7e.js"
+    "static/css/main.ee86734d.css",
+    "static/js/main.87707cbe.js"
   ]
 }
